@@ -15,17 +15,20 @@ Technologies:
 - GitHub Desktop (for update your code process)
 Outcome: A professional online presence to attract clients/employers.
 
-**Handbook:**
-*VS Code:*
-* install "Live Server" Extendsion.
-* Right-Click in HTML Workspace with "Open with Live Server" to show your website.
-*GitHub:*
-* Register your GitHub Account on https://github.com/signup
-* Download GitHub Desktop on your PC with https://desktop.github.com/download/
-* After Installed GitHub Desktop, Now clone Repository with this link "https://github.com/Pratchaya-jamp/my-portfolio.git" and select branch "Assignment"
+**Handbook**
+VS Code:
+- install "Live Server" Extendsion.
+- Right-Click in HTML Workspace with "Open with Live Server" to show your website.
+
+GitHub:
+- Register your GitHub Account on https://github.com/signup
+- Download GitHub Desktop on your PC with https://desktop.github.com/download/
+- After Installed GitHub Desktop, Now clone Repository with this link "https://github.com/Pratchaya-jamp/my-portfolio.git" and select branch "Assignment"
   ** DO NOT SELECT "MAIN" BRANCH **
-*HTML:* 
-* Open Project from your directory that you've cloned from GitHub Desktop
-* After you finish for your period just commit your code from GitHub Desktop and push them to your branch before closed VS Code.
-* (When you saved your code (CTRL+S) GitHub Desktop will saved change code from your workspace)
+  
+HTML: 
+- Open Project from your directory that you've cloned from GitHub Desktop
+- After you finish for your period just commit your code from GitHub Desktop and push them to your branch before closed VS Code.
+  
+(When you saved your code (CTRL+S) GitHub Desktop will saved change code from your workspace)
 
