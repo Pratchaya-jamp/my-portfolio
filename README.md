@@ -23,7 +23,7 @@ VS Code:
 GitHub:
 - Register your GitHub Account on https://github.com/signup
 - Download GitHub Desktop on your PC with https://desktop.github.com/download/
-- After Installed GitHub Desktop, Now clone Repository with this link "https://github.com/Pratchaya-jamp/my-portfolio.git" and select branch "Assignment"
+- After Installed GitHub Desktop, Now clone Repository with this link "https://github.com/Pratchaya-jamp/my-portfolio.git" and select branch "assignment 1-5" selected up to yours
   ** DO NOT SELECT "MAIN" BRANCH **
   
 HTML: 
